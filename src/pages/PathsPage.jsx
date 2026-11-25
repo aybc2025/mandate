@@ -18,6 +18,7 @@ export default function PathsPage() {
             highlight={selected.parties}
             total={selected.total}
             caption={selected.name}
+            legend="active"
           />
         </div>
         <ul className="grid gap-3">

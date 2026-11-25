@@ -1,5 +1,6 @@
 import { useMemo } from 'react'
 import { hemicycleLayout } from '../../lib/hemicycleLayout'
+import SeatLegend from './SeatLegend'
 import { MAJORITY } from '../../constants'
 
 const W = 400
@@ -10,7 +11,7 @@ const CY = R + DOT + 2
 const H = CY + 2
 
 // 120-seat Knesset chart. Seats of `highlight` parties are solid; the rest are faint.
-export default function Hemicycle({ partyById, highlight, total, caption }) {
+export default function Hemicycle({ partyById, highlight, total, caption, legend }) {
   const seats = useMemo(() => hemicycleLayout(partyById), [partyById])
   const on = useMemo(() => new Set(highlight), [highlight])
   const summary = `${caption}: ${total} of 120 seats, ${total >= MAJORITY ? 'a majority' : `${MAJORITY - total} short of ${MAJORITY}`}.`
@@ -48,6 +49,7 @@ export default function Hemicycle({ partyById, highlight, total, caption }) {
           {total >= MAJORITY ? 'a majority' : `${MAJORITY - total} short of ${MAJORITY}`}
         </span>
       </figcaption>
+      {legend && <SeatLegend partyById={partyById} highlight={on} onlyActive={legend === 'active'} />}
     </figure>
   )
 }
