@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24",
-  "checkedAt": "2026-11-25T02:00:00Z",
+  "updated": "2026-11-25",
+  "checkedAt": "2026-11-25T12:50:00Z",
   "phase": "mandate",
   "mandate": {
     "holder": "Gadi Eisenkot",
@@ -19,11 +19,11 @@
     "yb"
   ],
   "status": {
-    "headline": "Eisenkot signs his first coalition partner, but still has no path to 61",
-    "summary": "Twelve days before his mandate runs out, Gadi Eisenkot has a deal with Avigdor Liberman's Yisrael Beiteinu, the first coalition agreement since the election. Unity talks with Netanyahu's Likud have stalled over who would lead, the Democrats have suspended talks with him, and the haredi parties want the military draft settled before they commit. Kan reports Eisenkot wants to declare a majority and go to a Knesset confidence vote within days of doing so.",
+    "headline": "Liberman says a UTJ-backed Eisenkot government could be presented by the end of next week",
+    "summary": "With his mandate due to expire on December 6, Gadi Eisenkot has one agreed partner, Avigdor Liberman's Yisrael Beiteinu. Liberman now says UTJ's lawmakers have their rabbis' approval to negotiate and that he would accept a government backed by UTJ and possibly Ra'am, which he expects could be presented by the end of next week. Unity talks with Likud continue but remain stuck over rotation and the judicial overhaul, and the Democrats have suspended their talks with Yashar over those contacts.",
     "watch": [
-      "Will United Torah Judaism (and later Shas) back Eisenkot in exchange for a draft-enforcement freeze?",
-      "Is there a third Likud–Yashar round, and will rotation (who serves as PM first) finally be discussed?",
+      "Will UTJ open formal coalition talks with Eisenkot and Liberman, and on what draft terms?",
+      "Can Eisenkot reach 61 without the Democrats, or will they return to talks?",
       "Will Eisenkot ask President Herzog for the 14-day extension past December 6?"
     ]
   },
@@ -122,7 +122,7 @@
         "bio": "Founded Yisrael Beiteinu in 1999. Former defence minister and finance minister, and a long-time advocate of drafting haredi men."
       },
       "about": "Secular right-wing party with roots among immigrants from the former Soviet Union.",
-      "stance": "First party to sign a coalition deal with Yashar (Nov 24). Main aim is to unseat Netanyahu; has objected to both Arab-backed and Netanyahu-led unity options. Has opened a direct channel with UTJ on enlistment."
+      "stance": "First party to agree a coalition deal with Yashar (Nov 24). Main aim is to unseat Netanyahu. Now says he would accept a government backed by UTJ and possibly Ra'am, provided it has a Jewish majority; opposes the talks with Likud."
     },
     {
       "id": "likud",
@@ -170,7 +170,7 @@
         "bio": "Chairs United Torah Judaism's Knesset faction in the 26th Knesset."
       },
       "about": "Ashkenazi ultra-Orthodox alliance of Agudat Yisrael and Degel HaTorah.",
-      "stance": "Declined to recommend anyone. In talks with Eisenkot's camp; wants an immediate halt to arrests of draft evaders and reluctant to go in without Shas."
+      "stance": "Declined to recommend anyone. Preparing formal talks with Eisenkot and Liberman, led by Yaakov Asher; Liberman says its rabbis have approved negotiating. Wants a halt to arrests of draft evaders."
     },
     {
       "id": "rz",
@@ -256,6 +256,32 @@
     }
   ],
   "timeline": [
+    {
+      "id": "2026-11-25-liberman-says-utj-has-rabbis-approval",
+      "date": "2026-11-25",
+      "title": "Liberman says UTJ has rabbis' approval and a government could be presented next week",
+      "text": "In a Kan radio interview, Liberman said UTJ's lawmakers had received approval from their rabbis to negotiate and that talks were progressing well. He said he would accept a government backed by UTJ and possibly Ra'am, insisted it would have a Jewish majority rather than be a minority government, and expected it could be presented by the end of next week. Reports say UTJ's team would be led by Yaakov Asher.",
+      "tags": [
+        "haredim",
+        "strategy"
+      ],
+      "parties": [
+        "utj",
+        "yb",
+        "raam",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Ynet",
+          "url": "https://www.ynetnews.com/article/sydmex4kqe"
+        },
+        {
+          "name": "VIN News",
+          "url": "https://vinnews.com/2026/11/25/liberman-says-eisenkot-could-form-jewish-majority-government-by-next-week/"
+        }
+      ]
+    },
     {
       "id": "2026-11-24-first-coalition-pact-yashar-and-yisrael",
       "date": "2026-11-24",
