@@ -4,7 +4,6 @@ import { tally } from '../lib/seatMath'
 import StatusBand from '../components/latest/StatusBand'
 import WatchList from '../components/latest/WatchList'
 import Hemicycle from '../components/hemicycle/Hemicycle'
-import SeatLegend from '../components/hemicycle/SeatLegend'
 import TimelineEntry from '../components/timeline/TimelineEntry'
 
 export default function LatestPage() {
@@ -20,8 +19,8 @@ export default function LatestPage() {
           highlight={data.signed}
           total={signed.total}
           caption={`Signed to ${data.mandate.holder.split(' ').at(-1)} so far`}
+          legend="all"
         />
-        <SeatLegend partyById={data.partyById} />
         <p className="mt-3 text-center">
           <Link to="/paths" className="min-h-11 text-meta font-bold text-accent underline">
             See every path to 61
