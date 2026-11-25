@@ -6,6 +6,7 @@ export const ISRAEL_TZ = 'Asia/Jerusalem'
 
 // Storage keys are prefixed: every app under aybc2025.github.io shares one origin.
 export const STORAGE_LAST_SEEN = 'mandate:lastSeenUpdate'
+export const STORAGE_CUSTOM = 'mandate:customCoalition'
 
 // Left-to-right seat order in the hemicycle (bloc by bloc).
 export const SEAT_ORDER = ['joint', 'raam', 'dem', 'together', 'yashar', 'yb', 'likud', 'shas', 'utj', 'rz', 'otzma']
