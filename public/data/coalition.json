@@ -1,0 +1,614 @@
+{
+  "updated": "2026-11-24",
+  "checkedAt": "2026-11-25T02:00:00Z",
+  "phase": "mandate",
+  "mandate": {
+    "holder": "Gadi Eisenkot",
+    "partyId": "yashar",
+    "start": "2026-11-08",
+    "deadline": "2026-12-06",
+    "extendedDeadline": "2026-12-20"
+  },
+  "results": {
+    "electionDate": "2026-10-27",
+    "turnout": 77.98,
+    "threshold": 3.25
+  },
+  "signed": [
+    "yashar",
+    "yb"
+  ],
+  "status": {
+    "headline": "Eisenkot signs his first coalition partner, but still has no path to 61",
+    "summary": "Twelve days before his mandate runs out, Gadi Eisenkot has a deal with Avigdor Liberman's Yisrael Beiteinu, the first coalition agreement since the election. Unity talks with Netanyahu's Likud have stalled over who would lead, the Democrats have suspended talks with him, and the haredi parties want the military draft settled before they commit. Kan reports Eisenkot wants to declare a majority and go to a Knesset confidence vote within days of doing so.",
+    "watch": [
+      "Will United Torah Judaism (and later Shas) back Eisenkot in exchange for a draft-enforcement freeze?",
+      "Is there a third Likud–Yashar round, and will rotation (who serves as PM first) finally be discussed?",
+      "Will Eisenkot ask President Herzog for the 14-day extension past December 6?"
+    ]
+  },
+  "parties": [
+    {
+      "id": "joint",
+      "name": "Joint List",
+      "nameHe": "הרשימה המשותפת",
+      "seats": 11,
+      "bloc": "arab",
+      "color": "#2E8B57",
+      "leader": {
+        "name": "Yousef Jabareen",
+        "initials": "YJ",
+        "role": "Joint List leader",
+        "bio": "Legal scholar and former Hadash MK who now heads the Joint List."
+      },
+      "about": "Alliance of Arab and Arab-Jewish parties: Hadash, Ta'al and Balad.",
+      "stance": "Recommended Eisenkot on Nov 5, putting him at 67. Says it will support him from outside the government, not join it."
+    },
+    {
+      "id": "raam",
+      "name": "Ra'am",
+      "nameHe": "רע\"מ",
+      "seats": 8,
+      "bloc": "arab",
+      "color": "#7CB342",
+      "leader": {
+        "name": "Mansour Abbas",
+        "initials": "MA",
+        "role": "Ra'am leader",
+        "bio": "Led Ra'am into the 2021 Bennett–Lapid government, the first time an Arab party joined an Israeli coalition."
+      },
+      "about": "Islamist-conservative party rooted in the southern branch of the Islamic Movement.",
+      "stance": "Recommended Eisenkot. Says it will vote for an Eisenkot government even without a formal coalition agreement."
+    },
+    {
+      "id": "dem",
+      "name": "The Democrats",
+      "nameHe": "הדמוקרטים",
+      "seats": 8,
+      "bloc": "change",
+      "color": "#D81B60",
+      "leader": {
+        "name": "Yair Golan",
+        "initials": "YG",
+        "role": "Democrats leader",
+        "bio": "Former IDF deputy chief of staff. Took over Labor in 2024 and led its merger with Meretz into The Democrats."
+      },
+      "about": "Left-wing party formed by the merger of Labor and Meretz.",
+      "stance": "Recommended Eisenkot, but suspended talks with him over his unity talks with Likud. Prefers a government without Netanyahu, backed by the Arab parties."
+    },
+    {
+      "id": "together",
+      "name": "Together (Beyachad)",
+      "nameHe": "ביחד",
+      "seats": 12,
+      "bloc": "change",
+      "color": "#00897B",
+      "leader": {
+        "name": "Naftali Bennett",
+        "initials": "NB",
+        "role": "Together co-leader, with Yair Lapid",
+        "bio": "Prime minister 2021–22 and former leader of Yamina. Runs Together jointly with Yair Lapid, founder of Yesh Atid and prime minister in the second half of 2022."
+      },
+      "about": "Joint list of Bennett's party and Yair Lapid's Yesh Atid.",
+      "stance": "Recommended Eisenkot. Bennett publicly backs a unity government led by Eisenkot; Lapid's camp differs over whether Netanyahu can be in it."
+    },
+    {
+      "id": "yashar",
+      "name": "Yashar",
+      "nameHe": "ישר!",
+      "seats": 21,
+      "bloc": "change",
+      "color": "#1565C0",
+      "leader": {
+        "name": "Gadi Eisenkot",
+        "initials": "GE",
+        "role": "Yashar leader, holds the mandate",
+        "bio": "IDF chief of staff 2015–19. Joined Benny Gantz's National Unity in 2022 and sat in the wartime cabinet, then left to found Yashar."
+      },
+      "about": "New centrist party, now the second-largest in the Knesset.",
+      "stance": "Holds the mandate. Pursuing several tracks at once: unity talks with Likud, a haredi deal on the draft, and Arab outside support. Signed Yisrael Beiteinu on Nov 24."
+    },
+    {
+      "id": "yb",
+      "name": "Yisrael Beiteinu",
+      "nameHe": "ישראל ביתנו",
+      "seats": 7,
+      "bloc": "change",
+      "color": "#5C6BC0",
+      "leader": {
+        "name": "Avigdor Liberman",
+        "initials": "AL",
+        "role": "Yisrael Beiteinu leader",
+        "bio": "Founded Yisrael Beiteinu in 1999. Former defence minister and finance minister, and a long-time advocate of drafting haredi men."
+      },
+      "about": "Secular right-wing party with roots among immigrants from the former Soviet Union.",
+      "stance": "First party to sign a coalition deal with Yashar (Nov 24). Main aim is to unseat Netanyahu; has objected to both Arab-backed and Netanyahu-led unity options. Has opened a direct channel with UTJ on enlistment."
+    },
+    {
+      "id": "likud",
+      "name": "Likud",
+      "nameHe": "הליכוד",
+      "seats": 27,
+      "bloc": "right",
+      "color": "#1E3A8A",
+      "leader": {
+        "name": "Benjamin Netanyahu",
+        "initials": "BN",
+        "role": "Likud leader, caretaker prime minister",
+        "bio": "Israel's longest-serving prime minister (1996–99, 2009–21, and since December 2022). On trial in three corruption cases, which he denies."
+      },
+      "about": "Largest party in the Knesset and the core of every right-wing government since 2009.",
+      "stance": "Calls for a 'national unity' government without Arab parties. Two rounds of talks with Yashar (Nov 15, Nov 22) produced no deal; leadership/rotation is the core dispute."
+    },
+    {
+      "id": "shas",
+      "name": "Shas",
+      "nameHe": "ש\"ס",
+      "seats": 6,
+      "bloc": "right",
+      "color": "#111111",
+      "leader": {
+        "name": "Aryeh Deri",
+        "initials": "AD",
+        "role": "Shas leader",
+        "bio": "Has led the Sephardi ultra-Orthodox party for most of the time since the late 1980s. Former interior minister."
+      },
+      "about": "Sephardi and Mizrahi ultra-Orthodox party, a fixture of Netanyahu governments.",
+      "stance": "Recommended Netanyahu. Deri has not decided whether to cross over; a reported plan would bring Shas in at a later stage."
+    },
+    {
+      "id": "utj",
+      "name": "United Torah Judaism",
+      "nameHe": "יהדות התורה",
+      "seats": 7,
+      "bloc": "right",
+      "color": "#455A64",
+      "leader": {
+        "name": "Ya'akov Asher",
+        "initials": "YA",
+        "role": "UTJ faction chair",
+        "bio": "Chairs United Torah Judaism's Knesset faction in the 26th Knesset."
+      },
+      "about": "Ashkenazi ultra-Orthodox alliance of Agudat Yisrael and Degel HaTorah.",
+      "stance": "Declined to recommend anyone. In talks with Eisenkot's camp; wants an immediate halt to arrests of draft evaders and reluctant to go in without Shas."
+    },
+    {
+      "id": "rz",
+      "name": "Religious Zionism–Zehut",
+      "nameHe": "הציונות הדתית–זהות",
+      "seats": 6,
+      "bloc": "right",
+      "color": "#EF6C00",
+      "leader": {
+        "name": "Bezalel Smotrich",
+        "initials": "BS",
+        "role": "Religious Zionism leader",
+        "bio": "Finance minister in the outgoing government, also responsible for civil affairs in the West Bank."
+      },
+      "about": "Pro-settlement religious-nationalist list, running with Zehut.",
+      "stance": "Recommended Netanyahu. Eisenkot has signalled he may also hold talks with it."
+    },
+    {
+      "id": "otzma",
+      "name": "Otzma Yehudit",
+      "nameHe": "עוצמה יהודית",
+      "seats": 7,
+      "bloc": "right",
+      "color": "#8D6E63",
+      "leader": {
+        "name": "Itamar Ben-Gvir",
+        "initials": "IB",
+        "role": "Otzma Yehudit leader",
+        "bio": "National security minister in the outgoing government. A lawyer and long-time far-right activist."
+      },
+      "about": "Far-right party.",
+      "stance": "Recommended Netanyahu. Opposed to any government that relies on Arab parties."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "national-unity",
+      "name": "National unity",
+      "parties": [
+        "yashar",
+        "likud",
+        "together"
+      ],
+      "note": "One seat short on these three alone. Stuck on who leads and on a rotation deal; Bennett won't sit under Netanyahu, Lapid is wary of Netanyahu at all."
+    },
+    {
+      "id": "change-bloc-arab-outside-support",
+      "name": "Change bloc + Arab outside support",
+      "parties": [
+        "yashar",
+        "together",
+        "dem",
+        "yb",
+        "joint",
+        "raam"
+      ],
+      "note": "The 67 who recommended Eisenkot. Arab parties would support from outside; Liberman has resisted relying on them."
+    },
+    {
+      "id": "change-bloc-haredi-parties",
+      "name": "Change bloc + haredi parties",
+      "parties": [
+        "yashar",
+        "together",
+        "dem",
+        "yb",
+        "utj",
+        "shas"
+      ],
+      "note": "Exactly 61. Needs a deal on the draft that both Liberman and the haredim can live with; the Democrats would likely balk."
+    },
+    {
+      "id": "change-bloc-utj",
+      "name": "Change bloc + UTJ",
+      "parties": [
+        "yashar",
+        "together",
+        "dem",
+        "yb",
+        "utj"
+      ],
+      "note": "A minority government. Could pass a confidence vote only if Ra'am and others abstain or vote yes, since it needs more yes than no votes."
+    }
+  ],
+  "timeline": [
+    {
+      "id": "2026-11-24-first-coalition-pact-yashar-and-yisrael",
+      "date": "2026-11-24",
+      "title": "First coalition pact: Yashar and Yisrael Beiteinu",
+      "text": "After meeting Eisenkot, Liberman agreed to sign a coalition agreement with Yashar, the first since the election. The same day the Democrats were reported to have suspended talks with Eisenkot over his parallel talks with Likud.",
+      "tags": [
+        "deal"
+      ],
+      "parties": [
+        "dem",
+        "likud",
+        "yashar",
+        "yb"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://whbl.com/2026/11/24/israels-eisenkot-clinches-first-coalition-agreement-in-bid-to-form-government/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-eisenkot-plans-a-fast-route-to-a-confide",
+      "date": "2026-11-23",
+      "title": "Eisenkot plans a fast route to a confidence vote",
+      "text": "Kan reported Eisenkot intends to announce he has a path to a government and bring it to a Knesset vote within days, leaving little time for pressure on partners. Liberman and UTJ's Ya'akov Asher opened a direct channel on haredi enlistment.",
+      "tags": [
+        "strategy",
+        "haredim"
+      ],
+      "parties": [
+        "utj",
+        "yashar",
+        "yb"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915780"
+        },
+        {
+          "name": "Israel 2026 tracker",
+          "url": "https://israel2026.co.il/en/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-second-likud-yashar-round-ends-without-a",
+      "date": "2026-11-22",
+      "title": "Second Likud–Yashar round ends without a deal",
+      "text": "About four hours of talks covered a state commission of inquiry into October 7 and rolling back the judicial overhaul. Eisenkot's office said the core issue, a rotation agreement, was not discussed. A follow-up was announced with no date.",
+      "tags": [
+        "unity"
+      ],
+      "parties": [
+        "likud",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915780"
+        },
+        {
+          "name": "Israel RealTime",
+          "url": "https://israelrealtime.com/israel-coalition-talks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-eisenkot-floats-an-emergency-government",
+      "date": "2026-11-21",
+      "title": "Eisenkot floats an 'emergency government'; Bennett backs unity under Eisenkot",
+      "text": "Eisenkot said he would pursue an emergency government if broad talks fail. Bennett backed a unity government led by Eisenkot, exposing differences with Lapid over any role for Netanyahu.",
+      "tags": [
+        "unity"
+      ],
+      "parties": [
+        "likud",
+        "together",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Israel RealTime",
+          "url": "https://israelrealtime.com/israel-coalition-talks-2026/"
+        },
+        {
+          "name": "Organiser",
+          "url": "https://organiser.org/2026/11/20/427552/international/israel-unity-government-talks-resume-as-pm-netanyahu-and-eisenkot-prepare-for-second-round-of-coalition-negotiations/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-yashar-s-matan-kahana-elected-knesset-sp",
+      "date": "2026-11-17",
+      "title": "Yashar's Matan Kahana elected Knesset speaker",
+      "text": "Kahana beat Likud's Ofir Katz 66–52, an early show of strength for the anti-Netanyahu camp, though not a guide to how parties will vote on a government. Eisenkot said he would not drag out talks and would form a minority government if needed.",
+      "tags": [
+        "knesset"
+      ],
+      "parties": [
+        "likud",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Israel RealTime",
+          "url": "https://israelrealtime.com/israel-coalition-talks-2026/"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/tags/gadi-eisenkot"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-likud-and-yashar-open-formal-talks-hared",
+      "date": "2026-11-15",
+      "title": "Likud and Yashar open formal talks; haredi track takes shape",
+      "text": "Likud sent MK Ofir Katz and attorney Michael Rabello; Yashar sent MK Chili Tropper and Yoav Horowitz. Netanyahu called for a unity government. In parallel, Eisenkot's bloc was reported to be weighing a promise to freeze draft enforcement, including arrests of draft evaders, for up to a year to win haredi support. UTJ was reluctant to join without Shas.",
+      "tags": [
+        "unity",
+        "haredim"
+      ],
+      "parties": [
+        "likud",
+        "shas",
+        "utj",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-914935"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914903"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-26th-knesset-sworn-in-with-no-new-govern",
+      "date": "2026-11-10",
+      "title": "26th Knesset sworn in, with no new government",
+      "text": "A Yashar-chaired Arrangements Committee was approved 63–50, giving Eisenkot's camp control of early Knesset business. Eisenkot said his bloc would not give up on drafting haredi men.",
+      "tags": [
+        "knesset",
+        "haredim"
+      ],
+      "parties": [
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-914472"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-reports-of-a-secret-liberman-haredi-chan",
+      "date": "2026-11-09",
+      "title": "Reports of a secret Liberman–haredi channel",
+      "text": "Israeli media reported that Liberman had spent months meeting the ultra-Orthodox parties about a possible draft compromise, shifting talk toward a haredi deal.",
+      "tags": [
+        "haredim"
+      ],
+      "parties": [
+        "yb"
+      ],
+      "sources": [
+        {
+          "name": "Washington Post via DNYUZ",
+          "url": "https://dnyuz.com/?p=326159"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-eisenkot-formally-receives-the-mandate",
+      "date": "2026-11-08",
+      "title": "Eisenkot formally receives the mandate",
+      "text": "Herzog handed Eisenkot 28 days to form a government, to December 6, extendable by 14 days. Eisenkot said he was open to Netanyahu joining.",
+      "tags": [
+        "mandate"
+      ],
+      "parties": [
+        "likud",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-herzog-picks-eisenkot",
+      "date": "2026-11-07",
+      "title": "Herzog picks Eisenkot",
+      "text": "After meeting both Netanyahu and Eisenkot separately, the president announced he would task Eisenkot.",
+      "tags": [
+        "mandate"
+      ],
+      "parties": [
+        "likud",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.com/2026/11/07/herzog-taps-eisenkot-to-form-next-government-after-securing-backing-of-67-mks/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-consultations-end-eisenkot-67-netanyahu",
+      "date": "2026-11-05",
+      "title": "Consultations end: Eisenkot 67, Netanyahu 46",
+      "text": "The Joint List backed Eisenkot from outside, taking him to 67. UTJ's 7 seats recommended no one. Herzog cautioned that recommendations do not show who can actually build a majority.",
+      "tags": [
+        "consultations"
+      ],
+      "parties": [
+        "joint",
+        "likud",
+        "utj",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.com/2026/11/07/herzog-taps-eisenkot-to-form-next-government-after-securing-backing-of-67-mks/"
+        },
+        {
+          "name": "HNGN",
+          "url": "https://www.hngn.com/articles/273729/20261106/herzog-67-lawmakers-back-eisenkot-46-netanyahu-decision-sunday.htm"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-final-results-certified-consultations-be",
+      "date": "2026-11-04",
+      "title": "Final results certified; consultations begin",
+      "text": "The Central Elections Committee approved the official results and presented them to Herzog. Ra'am recommended Eisenkot, bringing him to 56.",
+      "tags": [
+        "consultations"
+      ],
+      "parties": [
+        "raam",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-the-democrats-back-eisenkot",
+      "date": "2026-11-02",
+      "title": "The Democrats back Eisenkot",
+      "text": "Yair Golan's party said it would recommend Eisenkot for prime minister.",
+      "tags": [
+        "consultations"
+      ],
+      "parties": [
+        "dem",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-herzog-sets-consultations-bennett-and-li",
+      "date": "2026-11-01",
+      "title": "Herzog sets consultations; Bennett and Liberman endorse Eisenkot",
+      "text": "The president said talks with party leaders would start Nov 4. Together and Yisrael Beiteinu said they would recommend Eisenkot.",
+      "tags": [
+        "consultations"
+      ],
+      "parties": [
+        "together",
+        "yashar",
+        "yb"
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-count-complete-no-majority-for-anyone",
+      "date": "2026-10-29",
+      "title": "Count complete: no majority for anyone",
+      "text": "Netanyahu's bloc finished with 53 seats, Eisenkot's with 48, and Arab parties a record 19. Likud stayed the largest party with 27. Likud claims of a 'stolen' election were rejected by the Central Elections Committee.",
+      "tags": [
+        "results"
+      ],
+      "parties": [
+        "likud",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-913237"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-election-day-deadlock-on-exit-polls",
+      "date": "2026-10-27",
+      "title": "Election day: deadlock on exit polls",
+      "text": "Turnout neared 78%, the highest since 1999. Exit polls showed the two blocs roughly level and both far from 61. Eisenkot said voters had rejected Netanyahu and warned against a second election; Netanyahu called for a right-wing government.",
+      "tags": [
+        "results"
+      ],
+      "parties": [
+        "likud",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Reuters via Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-eisenkot-stake-rival-claims-lead-israel-after-deadlocked-vote"
+        },
+        {
+          "name": "AP via OPB",
+          "url": "https://www.opb.org/article/2026/10/27/exit-polls-suggest-a-rebuke-of-netanyahu-but-no-clear-winner-in-israel-s-election/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dev-dist/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.netlify/
+*.pem
+*.key
+*.p12
+serviceAccount*.json
+*service-account*.json
+*credentials*.json
