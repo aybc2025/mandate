@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-26",
-  "checkedAt": "2026-11-26T14:10:00Z",
+  "checkedAt": "2026-11-26T14:57:13Z",
   "phase": "mandate",
   "mandate": {
     "holder": "Gadi Eisenkot",
@@ -19,12 +19,12 @@
     "yb"
   ],
   "status": {
-    "headline": "Democrats return to talks with Eisenkot as Likud officials expect a government to form without them",
-    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to present a government without needing the 14-day extension. Yisrael Beiteinu has agreed to join, with reported preliminary deals giving it Defense, Justice and Aliyah and Integration, and the Democrats resumed talks on November 26 with the Education Ministry still in dispute. UTJ is in talks over the draft, including a reported temporary pause on arrests of draft evaders, while senior Likud officials say a unity government looks increasingly unlikely.",
+    "headline": "Yashar eyes a Dec. 2 swearing-in as Democrats resume talks and Likud expects a government without it",
+    "summary": "Gadi Eisenkot's mandate runs to December 6 and can be extended by up to 14 days; a Times of Israel analysis says Yashar's preferred swearing-in date is December 2. Yisrael Beiteinu has signed a coalition deal, with reported preliminary terms giving it Defense, Justice and Aliyah and Integration, and the Democrats resumed talks on November 26 with the Education Ministry still in dispute. UTJ is in talks over the draft, including a reported temporary pause on arrests of draft evaders, while senior Likud officials say a unity government looks increasingly unlikely.",
     "watch": [
-      "Will Yashar and the Democrats settle the Education Ministry dispute and sign?",
+      "Will Yashar and the Democrats settle the Education Ministry dispute and sign once Golan is back in Israel?",
       "Will UTJ agree to back or abstain on an Eisenkot government, and on what draft terms?",
-      "Can Eisenkot bring a government to a Knesset vote before December 6 without an extension?"
+      "Can Eisenkot bring a government to a Knesset vote by December 6, or will he ask Herzog for an extension?"
     ]
   },
   "parties": [
@@ -256,6 +256,30 @@
     }
   ],
   "timeline": [
+    {
+      "id": "2026-11-26-yashar-targets-dec-2-swearing-in",
+      "date": "2026-11-26",
+      "title": "Yashar aims for a December 2 swearing-in and a 55-seat government",
+      "text": "A Times of Israel analysis reports that Yashar has marked Wednesday, December 2 as its preferred date to swear in a government, ahead of the December 6 mandate deadline. If time runs short, Eisenkot would ask President Herzog for a 14-day extension, to December 20. The goal described is a 55-seat government of his four-party bloc plus UTJ, still dependent on Ra'am or the Joint List not voting against it, with Liberman reportedly aiming to add Shas for a 61-seat majority.",
+      "tags": [
+        "strategy",
+        "mandate"
+      ],
+      "parties": [
+        "yashar",
+        "utj",
+        "raam",
+        "joint",
+        "yb",
+        "shas"
+      ],
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/eisenkot-hopes-to-get-his-government-sworn-in-next-week-regardless-of-netanyahu-trial-drama/"
+        }
+      ]
+    },
     {
       "id": "2026-11-26-likud-officials-expect-government-without-likud",
       "date": "2026-11-26",
