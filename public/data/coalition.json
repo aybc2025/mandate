@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-26",
-  "checkedAt": "2026-11-26T14:57:13Z",
+  "checkedAt": "2026-11-26T15:30:00Z",
   "phase": "mandate",
   "mandate": {
     "holder": "Gadi Eisenkot",
@@ -16,15 +16,16 @@
   },
   "signed": [
     "yashar",
-    "yb"
+    "yb",
+    "dem"
   ],
   "status": {
-    "headline": "Yashar eyes a Dec. 2 swearing-in as Democrats resume talks and Likud expects a government without it",
-    "summary": "Gadi Eisenkot's mandate runs to December 6 and can be extended by up to 14 days; a Times of Israel analysis says Yashar's preferred swearing-in date is December 2. Yisrael Beiteinu has signed a coalition deal, with reported preliminary terms giving it Defense, Justice and Aliyah and Integration, and the Democrats resumed talks on November 26 with the Education Ministry still in dispute. UTJ is in talks over the draft, including a reported temporary pause on arrests of draft evaders, while senior Likud officials say a unity government looks increasingly unlikely.",
+    "headline": "Democrats agree coalition deal with Eisenkot, the second party after Yisrael Beiteinu; Together and UTJ still pending",
+    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to submit coalition agreements to the Knesset by December 1 or 2, without needing the 14-day extension. Yisrael Beiteinu agreed to join on November 24, and on November 26 the Democrats reached understandings to sign, reportedly receiving Public Security and three other ministries. Together has not yet signed, and UTJ is still in talks over the draft, including a reported temporary pause on arrests of draft evaders.",
     "watch": [
-      "Will Yashar and the Democrats settle the Education Ministry dispute and sign once Golan is back in Israel?",
+      "Will Together sign with Yashar before Shabbat, as reported?",
       "Will UTJ agree to back or abstain on an Eisenkot government, and on what draft terms?",
-      "Can Eisenkot bring a government to a Knesset vote by December 6, or will he ask Herzog for an extension?"
+      "Will coalition agreements reach the Knesset by December 1–2 as reported?"
     ]
   },
   "parties": [
@@ -74,7 +75,7 @@
         "bio": "Former IDF deputy chief of staff. Took over Labor in 2024 and led its merger with Meretz into The Democrats."
       },
       "about": "Left-wing party formed by the merger of Labor and Meretz.",
-      "stance": "Recommended Eisenkot. Resumed coalition talks with Yashar on Nov 26 after a suspension over the Likud contacts; wants the Education Ministry for Naama Lazimi and a say on judicial and religion-state policy."
+      "stance": "Recommended Eisenkot. Reached understandings with Yashar on Nov 26 to sign a coalition deal; reported terms give it Public Security, Labor and Welfare, Communications, and Culture and Sport."
     },
     {
       "id": "together",
@@ -256,30 +257,6 @@
     }
   ],
   "timeline": [
-    {
-      "id": "2026-11-26-yashar-targets-dec-2-swearing-in",
-      "date": "2026-11-26",
-      "title": "Yashar aims for a December 2 swearing-in and a 55-seat government",
-      "text": "A Times of Israel analysis reports that Yashar has marked Wednesday, December 2 as its preferred date to swear in a government, ahead of the December 6 mandate deadline. If time runs short, Eisenkot would ask President Herzog for a 14-day extension, to December 20. The goal described is a 55-seat government of his four-party bloc plus UTJ, still dependent on Ra'am or the Joint List not voting against it, with Liberman reportedly aiming to add Shas for a 61-seat majority.",
-      "tags": [
-        "strategy",
-        "mandate"
-      ],
-      "parties": [
-        "yashar",
-        "utj",
-        "raam",
-        "joint",
-        "yb",
-        "shas"
-      ],
-      "sources": [
-        {
-          "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/eisenkot-hopes-to-get-his-government-sworn-in-next-week-regardless-of-netanyahu-trial-drama/"
-        }
-      ]
-    },
     {
       "id": "2026-11-26-likud-officials-expect-government-without-likud",
       "date": "2026-11-26",
@@ -703,6 +680,59 @@
         {
           "name": "AP via OPB",
           "url": "https://www.opb.org/article/2026/10/27/exit-polls-suggest-a-rebuke-of-netanyahu-but-no-clear-winner-in-israel-s-election/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-eisenkot-bloc-targets-early-december-signing",
+      "date": "2026-11-26",
+      "title": "Eisenkot bloc aims to submit coalition deals to the Knesset by December 1–2",
+      "text": "Citing Maariv, the Jerusalem Post reported that Yashar aims to sign and submit all coalition agreements by Tuesday, December 1, or Wednesday at the latest, and Channel 12 said Eisenkot hopes to sign Together and the Democrats before Shabbat. Channel 13 reported the Democrats were told they would get none of the four senior portfolios. Reports say Housing and a Knesset committee chair are earmarked for UTJ, which said it is focused on the draft, education and religious status quo rather than portfolios.",
+      "tags": [
+        "deal",
+        "haredim"
+      ],
+      "parties": [
+        "yashar",
+        "together",
+        "dem",
+        "utj"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post (via Yahoo)",
+          "url": "https://www.yahoo.com/news/politics/articles/eisenkot-accelerates-coalition-talks-amid-124642275.html"
+        },
+        {
+          "name": "Arutz Sheva",
+          "url": "https://www.israelnationalnews.com/news/437194"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-yashar-and-democrats-agree-coalition-deal",
+      "date": "2026-11-26",
+      "title": "Yashar and the Democrats agree to sign a coalition deal",
+      "text": "Hours after talks resumed, Yashar and the Democrats said in a joint statement that they had reached understandings on signing a coalition agreement; the formal signing had not yet been reported. Israel Hayom reported the Democrats would get an expanded Public Security ministry, Labor and Welfare, Communications, and Culture and Sport, plus the Knesset Constitution Committee chair. Yashar did not immediately confirm the portfolio split.",
+      "tags": [
+        "deal"
+      ],
+      "parties": [
+        "dem",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916226"
+        },
+        {
+          "name": "Ynet",
+          "url": "https://www.ynet.co.il/news/article/SJHkv2By7e"
+        },
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21940735"
         }
       ]
     }
