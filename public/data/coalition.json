@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25",
-  "checkedAt": "2026-11-25T12:50:00Z",
+  "updated": "2026-11-26",
+  "checkedAt": "2026-11-26T14:10:00Z",
   "phase": "mandate",
   "mandate": {
     "holder": "Gadi Eisenkot",
@@ -19,12 +19,12 @@
     "yb"
   ],
   "status": {
-    "headline": "Liberman says a UTJ-backed Eisenkot government could be presented by the end of next week",
-    "summary": "With his mandate due to expire on December 6, Gadi Eisenkot has one agreed partner, Avigdor Liberman's Yisrael Beiteinu. Liberman now says UTJ's lawmakers have their rabbis' approval to negotiate and that he would accept a government backed by UTJ and possibly Ra'am, which he expects could be presented by the end of next week. Unity talks with Likud continue but remain stuck over rotation and the judicial overhaul, and the Democrats have suspended their talks with Yashar over those contacts.",
+    "headline": "Democrats return to talks with Eisenkot as Likud officials expect a government to form without them",
+    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to present a government without needing the 14-day extension. Yisrael Beiteinu has agreed to join, with reported preliminary deals giving it Defense, Justice and Aliyah and Integration, and the Democrats resumed talks on November 26 with the Education Ministry still in dispute. UTJ is in talks over the draft, including a reported temporary pause on arrests of draft evaders, while senior Likud officials say a unity government looks increasingly unlikely.",
     "watch": [
-      "Will UTJ open formal coalition talks with Eisenkot and Liberman, and on what draft terms?",
-      "Can Eisenkot reach 61 without the Democrats, or will they return to talks?",
-      "Will Eisenkot ask President Herzog for the 14-day extension past December 6?"
+      "Will Yashar and the Democrats settle the Education Ministry dispute and sign?",
+      "Will UTJ agree to back or abstain on an Eisenkot government, and on what draft terms?",
+      "Can Eisenkot bring a government to a Knesset vote before December 6 without an extension?"
     ]
   },
   "parties": [
@@ -74,7 +74,7 @@
         "bio": "Former IDF deputy chief of staff. Took over Labor in 2024 and led its merger with Meretz into The Democrats."
       },
       "about": "Left-wing party formed by the merger of Labor and Meretz.",
-      "stance": "Recommended Eisenkot, but suspended talks with him over his unity talks with Likud. Prefers a government without Netanyahu, backed by the Arab parties."
+      "stance": "Recommended Eisenkot. Resumed coalition talks with Yashar on Nov 26 after a suspension over the Likud contacts; wants the Education Ministry for Naama Lazimi and a say on judicial and religion-state policy."
     },
     {
       "id": "together",
@@ -122,7 +122,7 @@
         "bio": "Founded Yisrael Beiteinu in 1999. Former defence minister and finance minister, and a long-time advocate of drafting haredi men."
       },
       "about": "Secular right-wing party with roots among immigrants from the former Soviet Union.",
-      "stance": "First party to agree a coalition deal with Yashar (Nov 24). Main aim is to unseat Netanyahu. Now says he would accept a government backed by UTJ and possibly Ra'am, provided it has a Jewish majority; opposes the talks with Likud."
+      "stance": "First party to agree a coalition deal with Yashar (Nov 24); reported preliminary terms give it Defense, Justice and Aliyah and Integration. Would accept a government backed by UTJ and possibly Ra'am, provided it has a Jewish majority; opposes the talks with Likud."
     },
     {
       "id": "likud",
@@ -138,7 +138,7 @@
         "bio": "Israel's longest-serving prime minister (1996–99, 2009–21, and since December 2022). On trial in three corruption cases, which he denies."
       },
       "about": "Largest party in the Knesset and the core of every right-wing government since 2009.",
-      "stance": "Calls for a 'national unity' government without Arab parties. Two rounds of talks with Yashar (Nov 15, Nov 22) produced no deal; leadership/rotation is the core dispute."
+      "stance": "Calls for a 'national unity' government without Arab parties. Two rounds of talks with Yashar produced no deal; senior Likud officials now say Eisenkot is likely to form a government without Likud."
     },
     {
       "id": "shas",
@@ -256,6 +256,52 @@
     }
   ],
   "timeline": [
+    {
+      "id": "2026-11-26-likud-officials-expect-government-without-likud",
+      "date": "2026-11-26",
+      "title": "Likud officials expect Eisenkot to form a government without Likud",
+      "text": "Citing Walla, senior Likud officials said the chances of a unity government were fading and Eisenkot was expected to form a government without Likud, possibly with haredi backing; Likud MK Amir Ohana called that the most likely outcome. Netanyahu met UTJ's Yaakov Asher and urged him not to rush. Reports also described a proposed three-month temporary measure to pause arrests of draft evaders pending a conscription law.",
+      "tags": [
+        "unity",
+        "haredim"
+      ],
+      "parties": [
+        "likud",
+        "yashar",
+        "utj"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916196"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-democrats-resume-talks-with-yashar",
+      "date": "2026-11-26",
+      "title": "Democrats resume talks with Yashar; Education Ministry is the sticking point",
+      "text": "Eisenkot said he had resolved the dispute with the Democrats and talks resumed on Thursday morning. The main open issue is the Education Ministry, which the Democrats want for MK Naama Lazimi and Yashar has so far kept. Reported preliminary allocations give Yisrael Beiteinu Defense, Justice and Aliyah and Integration, with Bennett tipped for Finance and Lapid for Foreign Affairs.",
+      "tags": [
+        "deal"
+      ],
+      "parties": [
+        "dem",
+        "yashar",
+        "yb",
+        "together"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916205"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://wmbdradio.com/2026/11/26/israels-eisenkot-resumes-meetings-with-left-wing-faction-as-coalition-talks-gain-steam/"
+        }
+      ]
+    },
     {
       "id": "2026-11-25-liberman-says-utj-has-rabbis-approval",
       "date": "2026-11-25",
