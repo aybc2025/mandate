@@ -28,7 +28,8 @@ Prefer Times of Israel, Jerusalem Post, Haaretz, Ynet, Israel Hayom, Kan, Reuter
   - Never rewrite or delete existing entries except to correct a clear factual error.
 - `status`: rewrite `headline` (≤ 140 chars), `summary` (3–4 sentences, where things stand now), `watch` (2–4 forward-looking questions).
 - `parties[].stance`: update where a position changed. Don't change seats, ids, colours.
-- `signed`: party ids that have signed/agreed a coalition deal with the mandate holder.
+- `signed`: party ids that have signed **or agreed to sign** a coalition deal with the mandate holder (an "understanding to sign" counts).
+- `formallySigned`: the subset of `signed` whose deal a source you opened reports as actually signed. A party that has only agreed/reached an understanding to sign stays out of it. The site draws signed seats solid and agreed-to-sign seats as rings, and labels party cards accordingly. The mandate holder is always treated as signed. Use `[]` when none.
 - `phase` + `mandate` when the stage changes:
   - extension granted → `phase: "extended"` (countdown then uses `extendedDeadline`; set it to the real date)
   - mandate passes to someone else → `"second-mandate"`, update `holder`, `partyId`, `start`, `deadline`, `extendedDeadline` (null if none)

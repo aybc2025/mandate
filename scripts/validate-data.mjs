@@ -65,6 +65,11 @@ const known = (list, where) => {
   for (const id of list) if (!ids.has(id)) err(`${where}: unknown party id "${id}"`)
 }
 known(d.signed, 'signed')
+// formallySigned (optional): parties whose deal a source reports as actually signed. Must be a subset of `signed`.
+if (d.formallySigned !== undefined) {
+  known(d.formallySigned, 'formallySigned')
+  for (const id of d.formallySigned || []) if (!d.signed.includes(id)) err(`formallySigned: "${id}" is not in signed`)
+}
 
 const scen = new Set()
 for (const sc of d.scenarios || []) {

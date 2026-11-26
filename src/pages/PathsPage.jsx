@@ -17,6 +17,7 @@ export default function PathsPage() {
           <Hemicycle
             partyById={data.partyById}
             highlight={selected.parties}
+            tentative={selected.tentative}
             total={selected.total}
             caption={selected.name}
             legend="active"

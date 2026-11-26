@@ -1,9 +1,12 @@
 import PartyAvatar from './PartyAvatar'
+import { dealStatus } from '../../lib/deals'
 
-// Short status tag derived from data: who holds the mandate / has signed.
+// Short status tag derived from data: who holds the mandate / has signed / has agreed to sign.
 const tagFor = (party, data) => {
   if (data.mandate.partyId === party.id) return 'holds the mandate'
-  if (data.signed.includes(party.id)) return 'signed'
+  const deal = dealStatus(party.id, data)
+  if (deal === 'signed') return 'signed'
+  if (deal === 'agreed') return 'agreed to sign'
   return null
 }
 

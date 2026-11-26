@@ -1,6 +1,7 @@
 import { Link, useOutletContext } from 'react-router-dom'
 import { useCountdown } from '../hooks/useCountdown'
 import { tally } from '../lib/seatMath'
+import { dealTiers } from '../lib/deals'
 import StatusBand from '../components/latest/StatusBand'
 import WatchList from '../components/latest/WatchList'
 import Hemicycle from '../components/hemicycle/Hemicycle'
@@ -10,6 +11,7 @@ export default function LatestPage() {
   const data = useOutletContext()
   const countdown = useCountdown(data.mandate, data.phase)
   const signed = tally(data.signed, data.partyById)
+  const { agreed } = dealTiers(data)
 
   return (
     <>
@@ -17,8 +19,9 @@ export default function LatestPage() {
         <Hemicycle
           partyById={data.partyById}
           highlight={data.signed}
+          tentative={agreed}
           total={signed.total}
-          caption={`Signed to ${data.mandate.holder.split(' ').at(-1)} so far`}
+          caption={`Deals with ${data.mandate.holder.split(' ').at(-1)} so far`}
           legend="all"
         />
         <p className="mt-3 text-center">

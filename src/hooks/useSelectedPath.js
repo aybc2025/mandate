@@ -1,5 +1,6 @@
 import { useCallback, useMemo, useState } from 'react'
 import { tally } from '../lib/seatMath'
+import { dealTiers } from '../lib/deals'
 import { STORAGE_CUSTOM } from '../constants'
 
 export const SIGNED_ID = 'signed'
@@ -40,9 +41,10 @@ export function useSelectedPath(data) {
   const paths = useMemo(() => {
     const signed = {
       id: SIGNED_ID,
-      name: 'Signed so far',
+      name: 'Signed or agreed so far',
       parties: data.signed,
-      note: `Parties that have agreed a coalition deal with ${data.mandate.holder}.`,
+      tentative: dealTiers(data).agreed,
+      note: `Parties that have signed, or agreed to sign, a coalition deal with ${data.mandate.holder}. Ringed seats have agreed to sign but not yet signed.`,
     }
     return [signed, ...data.scenarios].map((p) => ({ ...p, ...tally(p.parties, data.partyById) }))
   }, [data])

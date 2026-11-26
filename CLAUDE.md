@@ -51,6 +51,7 @@ If a secret is ever committed: stop, tell the owner to rotate it first, then cle
 - **English UI, LTR** (owner asked for English; overrides the Hebrew default). Hebrew party names appear only in the party sheet.
 - **No DB/Firebase/Netlify**: a git commit is the database; history is the audit trail.
 - **Seat totals are computed**, never stored in JSON.
+- **Deal status has two tiers**: `signed` = signed or agreed to sign; `formallySigned` (⊆ `signed`, holder implied) = actually signed. Chart draws agreed-to-sign seats as rings (shape, not just colour); `src/lib/deals.js` is the single split.
 - **coalition.json is network-first** in the service worker and excluded from precache — it changes daily.
 - The hero headline/summary are data, not code. Party colours are never used as text.
 - `Hemicycle` uses a fixed viewBox (scales with width) instead of ResizeObserver — simpler, no layout thrash.
