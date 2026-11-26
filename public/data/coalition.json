@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-26",
-  "checkedAt": "2026-11-26T15:30:00Z",
+  "checkedAt": "2026-11-26T15:14:18Z",
   "phase": "mandate",
   "mandate": {
     "holder": "Gadi Eisenkot",
@@ -15,15 +15,14 @@
     "threshold": 3.25
   },
   "signed": [
-    "yashar",
-    "yb",
-    "dem"
+    "yashar"
   ],
   "status": {
-    "headline": "Democrats agree coalition deal with Eisenkot, the second party after Yisrael Beiteinu; Together and UTJ still pending",
-    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to submit coalition agreements to the Knesset by December 1 or 2, without needing the 14-day extension. Yisrael Beiteinu agreed to join on November 24, and on November 26 the Democrats reached understandings to sign, reportedly receiving Public Security and three other ministries. Together has not yet signed, and UTJ is still in talks over the draft, including a reported temporary pause on arrests of draft evaders.",
+    "headline": "Eisenkot and Democrats reach understanding on a deal; no coalition agreement yet reported as signed",
+    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to submit coalition agreements to the Knesset by December 1 or 2, without needing the 14-day extension. Yisrael Beiteinu agreed on November 24 to sign a coalition deal, and on November 26 the Democrats reached an understanding to sign, reportedly for four ministries including Public Security; neither has been reported as formally signed. Together has not yet agreed a deal, and Bennett denied a Haaretz report of a back channel to Netanyahu's camp. UTJ is in informal talks over the draft, including a reported temporary pause on arrests of draft evaders, and has denied negotiating cabinet posts.",
     "watch": [
-      "Will Together sign with Yashar before Shabbat, as reported?",
+      "Will the Yashar–Democrats and Yashar–Yisrael Beiteinu agreements be formally signed?",
+      "Will Together reach a deal with Yashar before Shabbat, as reported?",
       "Will UTJ agree to back or abstain on an Eisenkot government, and on what draft terms?",
       "Will coalition agreements reach the Knesset by December 1–2 as reported?"
     ]
@@ -91,7 +90,7 @@
         "bio": "Prime minister 2021–22 and former leader of Yamina. Runs Together jointly with Yair Lapid, founder of Yesh Atid and prime minister in the second half of 2022."
       },
       "about": "Joint list of Bennett's party and Yair Lapid's Yesh Atid.",
-      "stance": "Recommended Eisenkot. Bennett publicly backs a unity government led by Eisenkot; Lapid's camp differs over whether Netanyahu can be in it."
+      "stance": "Recommended Eisenkot. Bennett publicly backs a unity government led by Eisenkot; Lapid's camp differs over whether Netanyahu can be in it. Bennett denies a Haaretz report of a back channel to Netanyahu's camp."
     },
     {
       "id": "yashar",
@@ -123,7 +122,7 @@
         "bio": "Founded Yisrael Beiteinu in 1999. Former defence minister and finance minister, and a long-time advocate of drafting haredi men."
       },
       "about": "Secular right-wing party with roots among immigrants from the former Soviet Union.",
-      "stance": "First party to agree a coalition deal with Yashar (Nov 24); reported preliminary terms give it Defense, Justice and Aliyah and Integration. Would accept a government backed by UTJ and possibly Ra'am, provided it has a Jewish majority; opposes the talks with Likud."
+      "stance": "First party to agree to sign a coalition deal with Yashar (Nov 24); reported preliminary terms give it Defense, Justice and Aliyah and Integration. Would accept a government backed by UTJ and possibly Ra'am, provided it has a Jewish majority; opposes the talks with Likud."
     },
     {
       "id": "likud",
@@ -171,7 +170,7 @@
         "bio": "Chairs United Torah Judaism's Knesset faction in the 26th Knesset."
       },
       "about": "Ashkenazi ultra-Orthodox alliance of Agudat Yisrael and Degel HaTorah.",
-      "stance": "Declined to recommend anyone. Preparing formal talks with Eisenkot and Liberman, led by Yaakov Asher; Liberman says its rabbis have approved negotiating. Wants a halt to arrests of draft evaders."
+      "stance": "Declined to recommend anyone. Preparing formal talks with Eisenkot and Liberman, led by Yaakov Asher; Liberman says its rabbis have approved negotiating. Wants a halt to arrests of draft evaders. Reportedly informal talks only; denies negotiating cabinet posts."
     },
     {
       "id": "rz",
@@ -733,6 +732,72 @@
         {
           "name": "Israel Hayom",
           "url": "https://www.israelhayom.co.il/news/politics/article/21940735"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-bennett-denies-haaretz-back-channel-report",
+      "date": "2026-11-26",
+      "title": "Bennett denies Haaretz report of a back channel to Netanyahu's camp",
+      "text": "Haaretz reported that an aide to Bennett holds a secret channel with a Netanyahu representative, who allegedly offered seven Likud list slots to Eisenkot-bloc members willing to defect. Bennett called the report false.",
+      "tags": [
+        "unity",
+        "strategy"
+      ],
+      "parties": [
+        "together",
+        "likud",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/bennett-denies-report-that-his-aide-is-holding-secret-talks-with-pm-confidant-on-unity-govt/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-democrats-deal-details-pending-signature",
+      "date": "2026-11-26",
+      "title": "Democrats deal agreed in principle: four ministries, signing still pending",
+      "text": "Reports say the Democrats would receive an expanded Public Security Ministry plus Labor and Welfare, Communications, and Culture and Sports, along with the Knesset Constitution Committee chair and a Judicial Selection Committee seat; the Justice and Education posts they sought were not included. Both reports describe the deal as agreed in principle with details still being finalized, not signed. National Security Minister Itamar Ben-Gvir said he would fight such a government if it is formed.",
+      "tags": [
+        "deal"
+      ],
+      "parties": [
+        "dem",
+        "yashar",
+        "otzma"
+      ],
+      "sources": [
+        {
+          "name": "i24NEWS",
+          "url": "https://www.i24news.tv/en/news/israel-election-s-2026/artc-eisenkot-and-golan-reach-an-understanding-democrats-to-receive-four-ministries-including-internal-security"
+        },
+        {
+          "name": "Arutz Sheva",
+          "url": "https://www.israelnationalnews.com/news/437206"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-report-utj-would-not-back-kariv-for-education",
+      "date": "2026-11-26",
+      "title": "Report: UTJ would not back a Democrats MK for Education; UTJ denies talks on posts",
+      "text": "Citing a haredi outlet, Times of Israel reported that UTJ would not support Democrats MK Gilad Kariv as education minister and that Eisenkot agreed, with health and housing reportedly reserved for UTJ. UTJ denied negotiating cabinet posts with Eisenkot, and Yashar is said to be in informal talks with it on a draft framework. Shas has reportedly declined to join.",
+      "tags": [
+        "haredim"
+      ],
+      "parties": [
+        "utj",
+        "shas",
+        "dem",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-said-to-agree-to-haredi-rejection-of-reform-rabbi-mk-for-education-post"
         }
       ]
     }
