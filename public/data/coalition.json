@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26",
-  "checkedAt": "2026-11-26T15:14:18Z",
+  "updated": "2026-11-27",
+  "checkedAt": "2026-11-27T12:55:00Z",
   "phase": "mandate",
   "mandate": {
     "holder": "Gadi Eisenkot",
@@ -21,12 +21,12 @@
   ],
   "formallySigned": [],
   "status": {
-    "headline": "Eisenkot and Democrats reach understanding on a deal; no coalition agreement yet reported as signed",
-    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to submit coalition agreements to the Knesset by December 1 or 2, without needing the 14-day extension. Yisrael Beiteinu agreed on November 24 to sign a coalition deal, and on November 26 the Democrats reached an understanding to sign, reportedly for four ministries including Public Security; neither has been reported as formally signed. Together has not yet agreed a deal, and Bennett denied a Haaretz report of a back channel to Netanyahu's camp. UTJ is in informal talks over the draft, including a reported temporary pause on arrests of draft evaders, and has denied negotiating cabinet posts.",
+    "headline": "Eisenkot and Democrats agree to sign a deal; Yashar–UTJ draft-law framework reported; no deal formally signed",
+    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to submit coalition agreements to the Knesset by December 1 or 2, without needing the 14-day extension. Yisrael Beiteinu agreed on November 24 to sign a coalition deal, and on November 26 the Democrats reached an understanding to sign, reportedly for four ministries including Public Security; neither has been reported as formally signed. Together has not yet agreed a deal; Eisenkot is reported to be seeking one by Saturday night. JFeed reported that Yashar and UTJ reached understandings on a draft-law framework, pending UTJ rabbinic approval; UTJ has denied negotiating cabinet posts.",
     "watch": [
       "Will the Yashar–Democrats and Yashar–Yisrael Beiteinu agreements be formally signed?",
-      "Will Together reach a deal with Yashar before Shabbat, as reported?",
-      "Will UTJ agree to back or abstain on an Eisenkot government, and on what draft terms?",
+      "Will Together reach a deal with Yashar by Saturday night, as reported?",
+      "Will UTJ's rabbinic leadership approve the reported draft-law framework, and will UTJ back or abstain on an Eisenkot government?",
       "Will coalition agreements reach the Knesset by December 1–2 as reported?"
     ]
   },
@@ -173,7 +173,7 @@
         "bio": "Chairs United Torah Judaism's Knesset faction in the 26th Knesset."
       },
       "about": "Ashkenazi ultra-Orthodox alliance of Agudat Yisrael and Degel HaTorah.",
-      "stance": "Declined to recommend anyone. Preparing formal talks with Eisenkot and Liberman, led by Yaakov Asher; Liberman says its rabbis have approved negotiating. Wants a halt to arrests of draft evaders. Reportedly informal talks only; denies negotiating cabinet posts."
+      "stance": "Declined to recommend anyone. In talks with Eisenkot and Liberman, led by Yaakov Asher; Liberman says its rabbis approved negotiating. Wants a halt to arrests of draft evaders. A single outlet reported on November 26 that Yashar and UTJ reached understandings on a draft-law framework, pending sign-off by Rabbi Hirsch; UTJ denies negotiating cabinet posts."
     },
     {
       "id": "rz",
@@ -259,6 +259,26 @@
     }
   ],
   "timeline": [
+    {
+      "id": "2026-11-27-report-yashar-utj-draft-law-framework",
+      "date": "2026-11-27",
+      "title": "Report: Yashar and UTJ reach understandings on a Haredi draft-law framework",
+      "text": "JFeed, citing a senior haredi source, reported late on November 26 that Yashar and United Torah Judaism had agreed on a draft-law framework: current enlistment targets would be dropped, oversight of yeshiva study tightened and extra enlistment tracks created. UTJ chair Yaakov Asher was reported to be due to put it to Rabbi Moshe Hillel Hirsch over the weekend, with lawyers for both sides to start drafting early next week if he agrees. The report is from a single outlet, and no coalition agreement with UTJ has been reported.",
+      "tags": [
+        "haredim",
+        "strategy"
+      ],
+      "parties": [
+        "utj",
+        "yashar"
+      ],
+      "sources": [
+        {
+          "name": "JFeed",
+          "url": "https://www.jfeed.com/hareidim/eisenkot-utj-chareidi-draft-law-understandings"
+        }
+      ]
+    },
     {
       "id": "2026-11-26-likud-officials-expect-government-without-likud",
       "date": "2026-11-26",
