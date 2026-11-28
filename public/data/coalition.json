@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27",
-  "checkedAt": "2026-11-27T12:55:00Z",
+  "updated": "2026-11-28",
+  "checkedAt": "2026-11-28T12:54:48Z",
   "phase": "mandate",
   "mandate": {
     "holder": "Gadi Eisenkot",
@@ -21,13 +21,13 @@
   ],
   "formallySigned": [],
   "status": {
-    "headline": "Eisenkot and Democrats agree to sign a deal; Yashar–UTJ draft-law framework reported; no deal formally signed",
-    "summary": "Gadi Eisenkot's mandate runs to December 6, and reports say his bloc aims to submit coalition agreements to the Knesset by December 1 or 2, without needing the 14-day extension. Yisrael Beiteinu agreed on November 24 to sign a coalition deal, and on November 26 the Democrats reached an understanding to sign, reportedly for four ministries including Public Security; neither has been reported as formally signed. Together has not yet agreed a deal; Eisenkot is reported to be seeking one by Saturday night. JFeed reported that Yashar and UTJ reached understandings on a draft-law framework, pending UTJ rabbinic approval; UTJ has denied negotiating cabinet posts.",
+    "headline": "Eisenkot targets a government as early as Dec 2; Together not yet signed; Democrats deal agreed in principle, not reported signed",
+    "summary": "Gadi Eisenkot's mandate runs to December 6 (extendable by up to 14 days), and the Jerusalem Post reports the goal is to swear in a government as early as Wednesday, December 2. Yisrael Beiteinu agreed on November 24 to sign a coalition deal, and the Democrats agreed on terms on November 26; Eisenkot described both as signed agreements, but the Jerusalem Post and Jewish Chronicle describe the Democrats deal as agreed in principle ahead of signing, so the site lists neither as formally signed. Bennett's Together has not signed; his meeting with Eisenkot was moved to Sunday at Bennett's request, pending a detailed conscription framework. Unity talks with Likud continue, with each side blaming the other for the pace, and UTJ talks centre on the draft and on ending arrests of yeshiva students.",
     "watch": [
-      "Will the Yashar–Democrats and Yashar–Yisrael Beiteinu agreements be formally signed?",
-      "Will Together reach a deal with Yashar by Saturday night, as reported?",
-      "Will UTJ's rabbinic leadership approve the reported draft-law framework, and will UTJ back or abstain on an Eisenkot government?",
-      "Will coalition agreements reach the Knesset by December 1–2 as reported?"
+      "Will the Yashar–Democrats and Yashar–Yisrael Beiteinu agreements be confirmed as formally signed?",
+      "Will the Sunday Eisenkot–Bennett meeting produce a deal with Together?",
+      "Will UTJ's rabbinic leadership approve a draft-law framework, and will UTJ back or abstain on an Eisenkot government?",
+      "Will a government be presented to the Knesset by about December 2, or will Eisenkot seek an extension?"
     ]
   },
   "parties": [
@@ -93,7 +93,7 @@
         "bio": "Prime minister 2021–22 and former leader of Yamina. Runs Together jointly with Yair Lapid, founder of Yesh Atid and prime minister in the second half of 2022."
       },
       "about": "Joint list of Bennett's party and Yair Lapid's Yesh Atid.",
-      "stance": "Recommended Eisenkot. Bennett publicly backs a unity government led by Eisenkot; Lapid's camp differs over whether Netanyahu can be in it. Bennett denies a Haaretz report of a back channel to Netanyahu's camp."
+      "stance": "Recommended Eisenkot. Bennett backs a unity government with Eisenkot as first prime minister; he has not signed a deal, and his meeting with Eisenkot was moved to Sunday pending a detailed conscription framework. Lapid's camp differs over whether Netanyahu can be in it. Bennett denies a Haaretz report of a back channel to Netanyahu's camp."
     },
     {
       "id": "yashar",
@@ -109,7 +109,7 @@
         "bio": "IDF chief of staff 2015–19. Joined Benny Gantz's National Unity in 2022 and sat in the wartime cabinet, then left to found Yashar."
       },
       "about": "New centrist party, now the second-largest in the Knesset.",
-      "stance": "Holds the mandate. Pursuing several tracks at once: unity talks with Likud, a haredi deal on the draft, and Arab outside support. Signed Yisrael Beiteinu on Nov 24."
+      "stance": "Holds the mandate. Pursuing several tracks at once: unity talks with Likud, a haredi deal on the draft, and Arab outside support. Agreed with Yisrael Beiteinu on Nov 24 to sign a coalition deal and reached terms with the Democrats on Nov 26; says it aims to sign with Together soon."
     },
     {
       "id": "yb",
@@ -141,7 +141,7 @@
         "bio": "Israel's longest-serving prime minister (1996–99, 2009–21, and since December 2022). On trial in three corruption cases, which he denies."
       },
       "about": "Largest party in the Knesset and the core of every right-wing government since 2009.",
-      "stance": "Calls for a 'national unity' government without Arab parties. Two rounds of talks with Yashar produced no deal; senior Likud officials now say Eisenkot is likely to form a government without Likud."
+      "stance": "Calls for a 'national unity' government without Arab parties. Talks with Yashar continue; the Jerusalem Post reports an agreement in principle on advancing judicial changes by consensus, with Ben-Gvir's place in a government unresolved. Eisenkot accuses Likud of stalling; Likud says its hand is extended."
     },
     {
       "id": "shas",
@@ -157,7 +157,7 @@
         "bio": "Has led the Sephardi ultra-Orthodox party for most of the time since the late 1980s. Former interior minister."
       },
       "about": "Sephardi and Mizrahi ultra-Orthodox party, a fixture of Netanyahu governments.",
-      "stance": "Recommended Netanyahu. Deri has not decided whether to cross over; a reported plan would bring Shas in at a later stage."
+      "stance": "Recommended Netanyahu. Deri has not decided whether to cross over and is reported to be abroad and not part of the talks; a reported plan would bring Shas in at a later stage."
     },
     {
       "id": "utj",
@@ -173,7 +173,7 @@
         "bio": "Chairs United Torah Judaism's Knesset faction in the 26th Knesset."
       },
       "about": "Ashkenazi ultra-Orthodox alliance of Agudat Yisrael and Degel HaTorah.",
-      "stance": "Declined to recommend anyone. In talks with Eisenkot and Liberman, led by Yaakov Asher; Liberman says its rabbis approved negotiating. Wants a halt to arrests of draft evaders. A single outlet reported on November 26 that Yashar and UTJ reached understandings on a draft-law framework, pending sign-off by Rabbi Hirsch; UTJ denies negotiating cabinet posts."
+      "stance": "Declined to recommend anyone. In talks with Eisenkot and Liberman, led by Yaakov Asher; Liberman says its rabbis approved negotiating. Wants arrests of yeshiva students ended before a swearing-in, which Eisenkot is reported unwilling to make a precondition. A single outlet reported on Nov 26 draft-law understandings pending sign-off by Rabbi Hirsch; UTJ denies negotiating cabinet posts."
     },
     {
       "id": "rz",
@@ -259,6 +259,64 @@
     }
   ],
   "timeline": [
+    {
+      "id": "2026-11-28-jpost-swearing-in-target-december-2",
+      "date": "2026-11-28",
+      "title": "Jerusalem Post: aim is to swear in a government as early as December 2",
+      "text": "A Jerusalem Post analysis says the goal is a swearing-in as early as Wednesday, December 2, with a confidence vote soon after the president is notified. It reports that Yashar and Likud teams reached an agreement in principle on advancing judicial changes by consensus, while Yashar opposes Ben-Gvir in government and Netanyahu has not agreed to drop him. UTJ wants arrests of yeshiva students halted before swearing-in, which Eisenkot is reported unwilling to make a precondition. The paper describes the Democrats deal as agreed in principle ahead of signing and says Bennett has not signed.",
+      "tags": [
+        "deal",
+        "mandate",
+        "haredim",
+        "knesset"
+      ],
+      "parties": [
+        "yashar",
+        "dem",
+        "together",
+        "likud",
+        "utj",
+        "shas"
+      ],
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916374"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-eisenkot-vows-government-within-mandate",
+      "date": "2026-11-27",
+      "title": "Eisenkot says he will form a government within his mandate; Bennett meeting moved to Sunday",
+      "text": "Eisenkot said on November 27 that he would form a government within the eight days left in his mandate, and that he was working to sign with Bennett's Together soon. He called the week's progress the signing of agreements with Yisrael Beiteinu and the Democrats, though the Jewish Chronicle describes the Democrats deal as agreed on terms. Walla, as relayed by the Times of Israel, reported that Bennett postponed their meeting to Sunday because no detailed conscription framework had been presented. Eisenkot accused Likud of stalling unity talks, and Likud said its hand remained extended.",
+      "tags": [
+        "deal",
+        "mandate",
+        "strategy"
+      ],
+      "parties": [
+        "yashar",
+        "together",
+        "dem",
+        "yb",
+        "likud"
+      ],
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/eisenkot-vows-to-form-government-within-8-days-accuses-likud-of-stalling-unity-talks/"
+        },
+        {
+          "name": "Times of Israel liveblog",
+          "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-seeks-byachad-deal-soon-accuses-likud-of-blocking-progress-on-unity-government/"
+        },
+        {
+          "name": "The Jewish Chronicle",
+          "url": "https://www.thejc.com/news/israel/elections-2026/israel-elections-eisenkot-secures-coalition-deal-with-yair-golans-democrats-affbm77h"
+        }
+      ]
+    },
     {
       "id": "2026-11-27-report-yashar-utj-draft-law-framework",
       "date": "2026-11-27",
